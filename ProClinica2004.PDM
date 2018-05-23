@@ -1,0 +1,119 @@
+[Root]
+Most Recent Package=Instalação Pró Clínica 2004
+
+
+[Package|Instalação Pró Clínica 2004|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\_Projetos\ProClinica2004\Package
+
+[Package|Instalação Pró Clínica 2004|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Instalação Pró Clínica 2004|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instalação Pró Clínica 2004|Files Found]
+
+[Package|Instalação Pró Clínica 2004|Files Released]
+
+[Package|Instalação Pró Clínica 2004|Missing Dependency Information]
+C:\WINXP\system32\actskin4.ocx=
+C:\WINNT\system32\actskin4.ocx=
+
+[Package|Instalação Pró Clínica 2004|Out-of-Date Dependency Information]
+C:\WINXP\system32\MSCOMCTL.OCX=
+
+[Package|Instalação Pró Clínica 2004|Files Added]
+
+[Package|Instalação Pró Clínica 2004|Files Removed]
+
+[Package|Instalação Pró Clínica 2004|Files In Project]
+D:\_Projetos\ProClinica2004\ProClinica2004.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Spread60\Bin\SPR32X60.ocx=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\WINNT\system32\msvcrt.dll=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\SYSINFO.OCX=Yes
+C:\WINNT\system32\actskin4.ocx=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+
+[Package|Instalação Pró Clínica 2004|Configure Registry Files]
+Applicable=No
+
+[Package|Instalação Pró Clínica 2004|Configure Remote Servers]
+Applicable=No
+
+[Package|Instalação Pró Clínica 2004|Install Locations]
+D:\_Projetos\ProClinica2004\ProClinica2004.exe=$(AppPath)
+C:\WINXP\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINXP\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Spread60\Bin\SPR32X60.ocx=$(WinSysPath)
+C:\WINXP\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINXP\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINXP\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINXP\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINXP\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINXP\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINXP\system32\actskin4.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINXP\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINNT\system32\actskin4.ocx=$(WinSysPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+
+[Package|Instalação Pró Clínica 2004|Configure Shared Files]
+Applicable=Yes
+D:\_Projetos\ProClinica2004\ProClinica2004.exe=No
+
+[Package|Instalação Pró Clínica 2004|Distribution]
+Type=single
+Size=
+Title=Pró Clínica 2004
+
+[Package|Instalação Pró Clínica 2004|Package]
+PackageFolder=D:\_Projetos\ProClinica2004\Package
+ProjectFolder=D:\_Projetos\ProClinica2004
+ServerSideCab=
+File1=D:\_Projetos\ProClinica2004\Package\setup.exe
+File2=D:\_Projetos\ProClinica2004\Package\Setup.Lst
+File3=D:\_Projetos\ProClinica2004\Package\ProClinica2004.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Instalação Pró Clínica 2004|IconGroups]
+Group0=Pró Clínica 2004
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Instalação Pró Clínica 2004|Pró Clínica 2004]
+Icon1=ProClinica2004.exe
+Title1=Pró Clínica 2004
+StartIn1=$(AppPath)
+Key1=Icon1

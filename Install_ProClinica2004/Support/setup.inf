@@ -1,0 +1,38 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Mon May 03 22:08:07 2004           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,ProClinica2004.CAB
+[file list]
+1,0,Setup.Lst,4512
+1,0,setup.exe,139776
+1,1,ProClinica2004.exe,1388544
+1,1,MSVBVM60.DLL,1385744
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,MSCOMCTL.OCX,1066176
+1,1,SPR32X60.ocx,1328824
+1,1,mfc42.dll,1015859
+1,1,msvcrt.dll,286773
+1,1,MSADODC.OCX,118976
+1,1,MSSTDFMT.DLL,118784
+1,1,TABCTL32.OCX,209608
+1,1,SYSINFO.OCX,67376
+1,1,actskin4.ocx,380928
+1,1,SETUP1.EXE,249856
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,73216
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Mon May 03 22:08:07 2004           **
+;**                                                                **
+;*** END ************************************************************
